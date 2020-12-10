@@ -1,0 +1,39 @@
+h1{
+    text-shadow: 12px 10px 2px #000;
+}
+
+.shadow{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(168, 185, 199);
+    margin: 76px auto;
+
+    box-shadow: 40px 30px 40px 10px #000;
+}
+
+.shadow2{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(168, 185, 199);
+    margin: 76px auto;
+
+    box-shadow: -31px 31px 0px 0px #000;
+}
+
+.shadow4{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(168, 185, 199);
+    margin: 76px auto;
+
+    box-shadow: -31px 31px 0px 0px #000, 62px 59px 10px 10px #000;
+}
+
+.shadow3{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(168, 185, 199);
+    margin: 118px auto;
+
+    box-shadow: 31px 31px 10px 10px #000;
+}

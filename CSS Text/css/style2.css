@@ -1,0 +1,15 @@
+p{
+    text-align: justify;
+}
+
+p.top img{
+    vertical-align: top;
+}
+
+p.bottom img{
+    vertical-align: bottom;
+}
+
+p.middle img{
+    vertical-align: middle;
+}
